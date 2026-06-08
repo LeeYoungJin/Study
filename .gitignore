@@ -1,0 +1,6 @@
+node_modules/
+.env
+data/*.json
+data/users/
+*.zip
+.DS_Store
